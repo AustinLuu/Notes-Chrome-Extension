@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 
 - 💼 Current Product Data Analyst at Celestica
 - 🌱 Learning about: ML, robotics, power lifting, and cooking
-- ⚡ Fun fact: I once had to hike up a mountain I slipped down on
+- ⚡ Fun fact: I once had to hike up a mountain I slipped down from
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AustinLuu" alt="AustinLuu" /></p>
