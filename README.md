@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h3 align="left"><img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="150"></h3>
+
+- 💼 Current Product Data Analyst at Celestica
+- 🌱 Learning about ML, robotics, and cooking
+- ⚡ Fun fact: I once had to hike up a mountain I slipped down on
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AustinLuu" alt="AustinLuu" /></p>
